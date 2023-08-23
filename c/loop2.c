@@ -8,14 +8,15 @@ int main()
     { 
         for(j=1;j<=i;j++)
         {
-            
-             printf("*");
-            
-        }  
-       
+             printf("%d",i);
+        }
+        //j++;
+        //printf("*");
+       // printf("\t\n");
+        //printf("\t");
+      //  sum=sum+j;
       printf("\n");
     }
-    
+    //printf("sum:%d",sum);
        return 0; 
 }
-
